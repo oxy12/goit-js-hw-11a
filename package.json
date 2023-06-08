@@ -24,6 +24,7 @@
     "@parcel/transformer-typescript-types": "^2.9.1",
     "@parcel/transformer-worklet": "^2.9.1",
     "axios": "^1.4.0",
+    "build": "^0.1.4",
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.6",
@@ -32,7 +33,7 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
-    "parcel": "^2.6.0",
+    "parcel": "^2.9.1",
     "parcel-reporter-clean-dist": "^1.0.4",
     "parcel-transformer-hbs": "^1.0.4",
     "posthtml-include": "^1.7.4"
