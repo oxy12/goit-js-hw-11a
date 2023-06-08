@@ -147,16 +147,12 @@ body {
     cursor: pointer;
     transition: background-color 300ms linear, color 300ms linear;
   
-    .hover,
-    .focus {
-      background-color: #0f3443;
-      color: #ffffff;
     }
   
-    &.is-hidden {
+    .is-hidden {
       display: none;
     }
-  }
+  
   
   .end-collection-text {
     margin: 30px 0 30px 0;
