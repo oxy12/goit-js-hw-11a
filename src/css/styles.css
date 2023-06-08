@@ -97,12 +97,12 @@ body {
 
   
   .gallery {
-    @media screen and (min-width: $tablet) {
+  
       display: flex;
       flex-wrap: wrap;
       margin: -10px;
     }
-  }
+  
   
   .photo-card {
     margin-bottom: 10px;
