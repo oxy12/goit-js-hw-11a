@@ -112,9 +112,6 @@ body {
     border-radius: 5px;
     overflow: hidden;
   
-    :last-child {
-      margin-bottom: 0;
-    }
   
     }
   
